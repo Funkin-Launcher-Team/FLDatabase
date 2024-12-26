@@ -1,0 +1,40 @@
+{
+    "engines": [
+        {
+            "name": "Kade Engine 1.8 (DEPRECATED)",
+            "id": 0,
+            "author": "KadeDev",
+            "executable": "KadeEngine"
+        },
+        {
+            "name": "Psych Engine",
+            "id": 1,
+            "author": "ShadowMario and Riveren",
+            "executable": "PsychEngine"
+        },
+        {
+            "name": "VSlice / Base Game",
+            "id": 2,
+            "author": "Ninjamuffin99 & Funkin' Crew team",
+            "executable": "Funkin"
+        },
+        {
+            "name": "FPS Plus",
+            "id": 3,
+            "author": "Rozebud",
+            "executable": "FunkinFPSPlus"
+        },
+        {
+            "name": "Codename Engine",
+            "id": 4,
+            "author": "Lunarcleint, Ne_Eo, WizardMantis441, Frakits, Nex_isDumb",
+            "executable": "CodenameEngine"
+        },
+        {
+            "name": "P-Slice Engine",
+            "id": 5,
+            "author": "Mikolka9144 & Psych Engine Team",
+            "executable": "P-Slice"
+        }
+    ]
+}
