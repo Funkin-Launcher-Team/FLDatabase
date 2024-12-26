@@ -4,37 +4,43 @@
             "name": "Kade Engine 1.8 (DEPRECATED)",
             "id": 0,
             "author": "KadeDev",
-            "executable": "KadeEngine"
+            "executable": "KadeEngine",
+            "url": "kade.zip"
         },
         {
             "name": "Psych Engine",
             "id": 1,
             "author": "ShadowMario and Riveren",
-            "executable": "PsychEngine"
+            "executable": "PsychEngine",
+            "url": "psych.zip"
         },
         {
             "name": "VSlice / Base Game",
             "id": 2,
             "author": "Ninjamuffin99 & Funkin' Crew team",
-            "executable": "Funkin"
+            "executable": "Funkin",
+            "url": "vanilla.zip"
         },
         {
             "name": "FPS Plus",
             "id": 3,
             "author": "Rozebud",
-            "executable": "FunkinFPSPlus"
+            "executable": "FunkinFPSPlus",
+            "url": "fps.zip"
         },
         {
             "name": "Codename Engine",
             "id": 4,
             "author": "Lunarcleint, Ne_Eo, WizardMantis441, Frakits, Nex_isDumb",
-            "executable": "CodenameEngine"
+            "executable": "CodenameEngine",
+            "url": "https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/windows/main/Codename%20Engine.zip"
         },
         {
             "name": "P-Slice Engine",
             "id": 5,
             "author": "Mikolka9144 & Psych Engine Team",
-            "executable": "P-Slice"
+            "executable": "P-Slice",
+            "url": "pslice.zip"
         }
     ]
 }
