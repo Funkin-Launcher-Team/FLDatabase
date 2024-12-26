@@ -5,28 +5,28 @@
             "id": 0,
             "author": "KadeDev",
             "executable": "KadeEngine",
-            "url": "kade.zip"
+            "url": "https://ffm-backend.web.app/e0.zip"
         },
         {
             "name": "Psych Engine",
             "id": 1,
             "author": "ShadowMario and Riveren",
             "executable": "PsychEngine",
-            "url": "psych.zip"
+            "url": "https://ffm-backend.web.app/e1.zip"
         },
         {
             "name": "VSlice / Base Game",
             "id": 2,
             "author": "Ninjamuffin99 & Funkin' Crew team",
             "executable": "Funkin",
-            "url": "vanilla.zip"
+            "url": "https://ffm-backend.web.app/e0.zi2"
         },
         {
             "name": "FPS Plus",
             "id": 3,
             "author": "Rozebud",
             "executable": "FunkinFPSPlus",
-            "url": "fps.zip"
+            "url": "https://ffm-backend.web.app/e3.zip"
         },
         {
             "name": "Codename Engine",
@@ -36,11 +36,18 @@
             "url": "https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/windows/main/Codename%20Engine.zip"
         },
         {
-            "name": "P-Slice Engine",
+            "name": "P-Slice Engine (NEW!)",
             "id": 5,
             "author": "Mikolka9144 & Psych Engine Team",
-            "executable": "P-Slice",
-            "url": "pslice.zip"
+            "executable": "PSliceEngine",
+            "url": "https://gamebanana.com/dl/1349210"
+        },
+        {
+            "name": "Doido Engine 1.0 (NEW!)",
+            "id": 6,
+            "author": "DoidoTV",
+            "executable": "DoidoEngine",
+            "url": "https://github.com/DoidoTeam/FNF-Doido-Engine/releases/download/3.4.0/DoidoEngine-3.4.0-Windows-x64.zip"
         }
     ]
 }
