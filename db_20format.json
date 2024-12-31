@@ -8,7 +8,7 @@
             "url": "https://ffm-backend.web.app/e1.zip"
         },
         {
-            "name": "Kade Engine 1.8 (DEPRECATED)",
+            "name": "Kade Engine",
             "id": 1,
             "author": "KadeDev",
             "executable": "KadeEngine",
@@ -36,14 +36,14 @@
             "url": "https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/windows/main/Codename%20Engine.zip"
         },
         {
-            "name": "P-Slice Engine (NEW!)",
+            "name": "P-Slice (NEW!)",
             "id": 5,
             "author": "Mikolka9144 & Psych Engine Team",
             "executable": "PSliceEngine",
             "url": "https://gamebanana.com/dl/1349210"
         },
         {
-            "name": "Doido Engine 1.0 (NEW!)",
+            "name": "Doido Engine (NEW!)",
             "id": 6,
             "author": "DoidoTV",
             "executable": "DoidoEngine",
