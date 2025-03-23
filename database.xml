@@ -1,10 +1,7 @@
 <Engine>
-  <Name>Psych Engine</Name>
-  <Executable>PsychEngine</Executable>
-  <ID>0</ID>
-  <Authors>
-    <AuthorNode name="ShadowMario" />
-    <AuthorNode name="Riveren" />
-  </Authors>
-  <URL>https://nightly.link/ShadowMario/FNF-PsychEngine/workflows/main/main/windowsBuild.zip</URL>
+  <Name contents="Psych Engine"/>
+  <Executable contents="PsychEngine" />
+  <ID contents="0" />
+  <Author contents="ShadowMario" />
+  <URL contents="https://nightly.link/ShadowMario/FNF-PsychEngine/workflows/main/main/windowsBuild.zip" />
 </Engine>
