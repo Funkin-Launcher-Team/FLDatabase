@@ -1,5 +1,6 @@
 <Engine>
   <Name>Psych Engine</Name>
+  <Executable>PsychEngine</Executable>
   <ID>0</ID>
   <Authors>
     <AuthorNode name="ShadowMario" />
