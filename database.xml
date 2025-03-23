@@ -1,0 +1,11 @@
+<Engine>
+  <Name>Psych Engine</Name>
+  <ID>0</ID>
+  <Authors>
+    <AuthorNode name="ShadowMario" />
+    <AuthorNode name="Riveren" />
+  </Authors>
+  <Download>
+    <Mirror>https://nightly.link/ShadowMario/FNF-PsychEngine/workflows/main/main/windowsBuild.zip</Mirror>
+  </Download>
+</Engine>
