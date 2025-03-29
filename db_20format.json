@@ -8,6 +8,27 @@
             "url": "https://nightly.link/ShadowMario/FNF-PsychEngine/workflows/main/main/windowsBuild.zip"
         },
         {
+            "name": "Kade Engine",
+            "id": 1,
+            "author": "KadeDev",
+            "executable": "KadeEngine",
+            "url": "https://ffm-backend.web.app/e0.zip"
+        },
+        {
+            "name": "VSlice / Base Game",
+            "id": 2,
+            "author": "Ninjamuffin99 & Funkin' Crew team",
+            "executable": "Funkin",
+            "url": "https://ffm-backend.web.app/e2.zip"
+        },
+        {
+            "name": "FPS Plus",
+            "id": 3,
+            "author": "Rozebud",
+            "executable": "FunkinFPSPlus",
+            "url": "https://ffm-backend.web.app/e3.zip"
+        },
+        {
             "name": "Codename Engine",
             "id": 4,
             "author": "Lunarcleint, Ne_Eo, WizardMantis441, Frakits, Nex_isDumb, FuroYT",
